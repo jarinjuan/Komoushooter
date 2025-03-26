@@ -16,9 +16,8 @@
     {"name":"Timelines","order":7,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"obj_Background","order":15,"path":"objects/obj_Background/obj_Background.yy",},
-    {"name":"obj_player","order":18,"path":"objects/obj_player/obj_player.yy",},
-    {"name":"rm_gameplay","order":16,"path":"rooms/rm_gameplay/rm_gameplay.yy",},
+    {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"rm_gameplay","order":1,"path":"rooms/rm_gameplay/rm_gameplay.yy",},
     {"name":"Ambush_Intro","order":1,"path":"sprites/Ambush_Intro/Ambush_Intro.yy",},
     {"name":"Apocalypse","order":2,"path":"sprites/Apocalypse/Apocalypse.yy",},
     {"name":"BloodMoney_Intro","order":4,"path":"sprites/BloodMoney_Intro/BloodMoney_Intro.yy",},
@@ -75,6 +74,5 @@
     {"name":"Withdrawal_Outro","order":58,"path":"sprites/Withdrawal_Outro/Withdrawal_Outro.yy",},
     {"name":"Withdrawal","order":56,"path":"sprites/Withdrawal/Withdrawal.yy",},
     {"name":"WriterHome","order":59,"path":"sprites/WriterHome/WriterHome.yy",},
-    {"name":"TileSet1","order":17,"path":"tilesets/TileSet1/TileSet1.yy",},
   ],
 }

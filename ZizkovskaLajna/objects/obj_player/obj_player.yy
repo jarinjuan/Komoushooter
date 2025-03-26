@@ -8,8 +8,8 @@
   "name":"obj_player",
   "overriddenProperties":[],
   "parent":{
-    "name":"ZizkovskaLajna",
-    "path":"ZizkovskaLajna.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

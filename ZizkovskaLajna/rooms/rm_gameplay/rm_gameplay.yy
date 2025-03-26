@@ -36,8 +36,8 @@
   ],
   "name":"rm_gameplay",
   "parent":{
-    "name":"ZizkovskaLajna",
-    "path":"ZizkovskaLajna.yyp",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

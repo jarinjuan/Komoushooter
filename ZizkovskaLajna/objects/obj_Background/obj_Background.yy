@@ -6,8 +6,8 @@
   "name":"obj_Background",
   "overriddenProperties":[],
   "parent":{
-    "name":"ZizkovskaLajna",
-    "path":"ZizkovskaLajna.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
