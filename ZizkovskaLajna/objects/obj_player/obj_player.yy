@@ -8,8 +8,8 @@
   "name":"obj_player",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"ZizkovskaLajna",
+    "path":"ZizkovskaLajna.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"pixil_frame_0_2_",
+    "path":"sprites/pixil_frame_0_2_/pixil_frame_0_2_.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
